@@ -680,8 +680,6 @@ Additional Notice
 RomForge.Light
 Copyright (c) 2026 YameSoft
 
-This project is primarily written in C# by YameSoft.
-
 This project includes third-party software:
 
 - xdelta
@@ -691,8 +689,8 @@ This project includes third-party software:
 
 - chdman (part of MAME)
   Copyright (c) MAMEdev and contributors
-  Licensed under the GNU General Public License v2.0 or later.
+  Licensed under the GNU General Public License version 2 or later.
   Source: https://github.com/mamedev/mame
 
-Unless otherwise stated, all original C# source code in this repository
+Unless otherwise noted, all original C# source code in this repository
 is Copyright (c) 2026 YameSoft.
