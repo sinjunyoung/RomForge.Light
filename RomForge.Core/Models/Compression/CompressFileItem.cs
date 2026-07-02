@@ -85,5 +85,5 @@ public class CompressFileItem(string filePath) : FileItemBase(filePath)
         };
     }
 
-    protected override string FormatSize(long bytes) => PickPack.Disk.ETC.FileSize.FormatSize(bytes);
+    protected override string FormatSize(long bytes) => Services.FileSize.FormatSize(bytes);
 }

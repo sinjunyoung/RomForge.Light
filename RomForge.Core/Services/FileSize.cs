@@ -1,4 +1,4 @@
-﻿namespace PickPack.Disk.ETC
+﻿namespace RomForge.Core.Services
 {
     public static class FileSize
     {

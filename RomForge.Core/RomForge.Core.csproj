@@ -19,6 +19,5 @@
     <ProjectReference Include="..\Common.WPF\Common.WPF.csproj" />
     <ProjectReference Include="..\Patch.Core\Patch.Core.csproj" />
     <ProjectReference Include="..\PBP.Core\PBP.Core.csproj" />
-    <ProjectReference Include="..\PickPack.Disk\PickPack.Disk.csproj" />
   </ItemGroup>
 </Project>

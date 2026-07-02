@@ -8,7 +8,7 @@ namespace RomForge.Converters
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            if (value is not string lang) return null;
+            if (value is not string lang) return null!;
 
             string fileName = lang switch
             {
@@ -40,7 +40,7 @@ namespace RomForge.Converters
             }
             catch
             {
-                return null;
+                return null!;
             }
         }
 
