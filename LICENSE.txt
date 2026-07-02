@@ -672,3 +672,27 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+--------------------------------------------------------------------------------
+
+Additional Notice
+
+RomForge.Light
+Copyright (c) 2026 YameSoft
+
+This project is primarily written in C# by YameSoft.
+
+This project includes third-party software:
+
+- xdelta
+  Copyright (c) Joshua MacDonald
+  Licensed under the Apache License, Version 2.0.
+  Source: https://github.com/jmacd/xdelta
+
+- chdman (part of MAME)
+  Copyright (c) MAMEdev and contributors
+  Licensed under the GNU General Public License v2.0 or later.
+  Source: https://github.com/mamedev/mame
+
+Unless otherwise stated, all original C# source code in this repository
+is Copyright (c) 2026 YameSoft.
